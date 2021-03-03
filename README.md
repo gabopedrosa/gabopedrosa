@@ -59,8 +59,6 @@
 - [Node.js Crash Course for Beginners Tutorial - Learn Node Basics in 30 Minutes!](https://www.youtube.com/watch?v=2LUdnb-mls0)
 <!-- YOUTUBE:END -->
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabopedrosa&repo=github-readme-stats" />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
