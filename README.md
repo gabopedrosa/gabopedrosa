@@ -54,7 +54,7 @@
 
 </details>
 
-[website]: http://https://github.com/gabopedrosa/gabopedrosa.github.io
+[website]: https://github.com/gabopedrosa/gabopedrosa.github.io
 [linkedin]: https://www.linkedin.com/in/gabriel-ara%C3%BAjo-pedrosa-2002171b5/
 [vscode]: https://www.youtube.com/watch?v=S320N3sxinE&ab_channel=VisualStudioCode
 [javascript]: https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&ab_channel=CursoemV%C3%ADdeo
