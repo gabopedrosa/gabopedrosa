@@ -15,8 +15,6 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -56,8 +54,8 @@
 
 </details>
 
-[website]: https://github.com/gabopedrosa#connect-with-me
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: http://https://github.com/gabopedrosa/gabopedrosa.github.io
+[linkedin]: https://www.linkedin.com/in/gabriel-ara%C3%BAjo-pedrosa-2002171b5/
 [vscode]: https://www.youtube.com/watch?v=S320N3sxinE&ab_channel=VisualStudioCode
 [javascript]: https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&ab_channel=CursoemV%C3%ADdeo
 [html5css3]: https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&ab_channel=CursoemV%C3%ADdeo
