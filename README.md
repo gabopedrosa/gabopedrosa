@@ -66,7 +66,7 @@
 
 </details>
 
-[website]: https://github.com/gabopedrosa#connect-with-me
+[website]: https://https://gabopedrosa.github.io/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
