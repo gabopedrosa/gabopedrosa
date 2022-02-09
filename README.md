@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel - aka [gabopedrosa][website] 👋
 
 
-## I'm a brazilian trying to learn some technology stuff 💻
+## Brazilian guy learning some technology stuff 💻
 
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas
 - 🥅 2022 Goals: (HTML & JS)
