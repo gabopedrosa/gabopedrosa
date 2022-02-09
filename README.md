@@ -3,10 +3,8 @@
 
 ## I'm a brazilian trying to learn some technology stuff 💻
 
-- 🌱 I’m currently learning everything 🤣
-- 💼 I’m looking to get a job where I can get more experience
-- 🥅 2021 Goals: Learn more about Programming (mainly HTML & JS)
-- 🎮 Fun fact: I love to play games and listen to music
+- 🌱 Graduando em Análise e Desenvolvimento de Sistemas
+- 🥅 2022 Goals: (HTML & JS)
 
 ### Spotify Playing 🎧
 
