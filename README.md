@@ -18,9 +18,6 @@
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas
 - 🥅 2023 Goals: (Get a Job as a Front or Back-end dev)
 
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gabopedrosa_&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=b0b0b0&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gabopedrosa_&redirect=true)
 
 ### Do you want to connect with me?
 
@@ -51,8 +48,9 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabopedrosa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats"/>
 </details>
-<details>
-  <summary> 🎧 </summary>
 
-  
+ 
+  ### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gabopedrosa_&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=b0b0b0&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gabopedrosa_&redirect=true)
 
