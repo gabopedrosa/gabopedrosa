@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/gabriel-pedrosa-2002171b5/]
 
 <br />
 
@@ -33,16 +33,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Como aplicar máscara de CPF e CNPJ em Inputs com ReactJS](https://www.youtube.com/watch?v=hWukAkEzBB4&ab_channel=ViniciusDacal)
-- [How to Send Mail from Contact Form without Backend Code](https://www.youtube.com/watch?v=w4-EWgo-nhw&ab_channel=Thirus)
-- [React Website using Styled Components and Smooth Scroll](https://www.youtube.com/watch?v=Nl54MJDR2p8&t=11827s&ab_channel=BrianDesign)
-- [Testando o HTML e CSS do ESTAGIÁRIO](https://www.youtube.com/watch?v=UwSy1vhUfHE&ab_channel=DevMedia)
-- [Node.js Crash Course for Beginners Tutorial - Learn Node Basics in 30 Minutes!](https://www.youtube.com/watch?v=2LUdnb-mls0)
-<!-- YOUTUBE:END -->
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -52,7 +42,7 @@
 </details>
 
 [website]: https://github.com/gabopedrosa/gabopedrosa.github.io
-[linkedin]: https://www.linkedin.com/in/gabriel-ara%C3%BAjo-pedrosa-2002171b5/
+[linkedin]: https://www.linkedin.com/in/gabriel-pedrosa-2002171b5/
 [vscode]: https://www.youtube.com/watch?v=S320N3sxinE&ab_channel=VisualStudioCode
 [javascript]: https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&ab_channel=CursoemV%C3%ADdeo
 [html5css3]: https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&ab_channel=CursoemV%C3%ADdeo
