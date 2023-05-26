@@ -44,7 +44,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabopedrosa&layout=compact&theme=vision-friendly-dark)" align="left"/>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=gabopedrosa_&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=b0b0b0&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gabopedrosa_&redirect=true" />
+
 
 
   ### Spotify Playing 🎧
