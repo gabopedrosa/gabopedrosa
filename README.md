@@ -4,7 +4,7 @@
 ## Brazilian guy learning some technology stuff 💻
 
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas
-- 🥅 2022 Goals: (HTML & JS)
+- 🥅 2023 Goals: (Get a Job as a Front or Back-end dev)
 
 ### Spotify Playing 🎧
 
@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabopedrosa&show_icons=true&hide_border=true" />
+  
 
 </details>
 
