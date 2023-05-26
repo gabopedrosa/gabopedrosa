@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-<a href="gabopedrosa.github.io"> <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> </a>
-<a href="default.asp"> <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  </a>
+<a href="https://gabopedrosa.github.io"> <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> </a>
+<a href="https://www.linkedin.com/in/gabriel-pedrosa-2002171b5/"> <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  </a>
 
 <br />
 
