@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel - aka [<a href="https://github.com/gabopedrosa"> gabopedrosa</a>]
+### Hi there, I'm Gabriel - aka [<a href="https://github.com/gabopedrosa"> gabopedrosa</a> ]
 
 <div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
