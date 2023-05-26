@@ -43,7 +43,7 @@
 ---
 
 
-![alt-text-1]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabopedrosa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats"/>![alt-text-2]img src="https://github-readme-stats.vercel.app/api?username=gabopedrosa&show_icons=true&theme=radical" />
+![alt-text-1]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabopedrosa&layout=compact&theme=vision-friendly-dark)
 
 
 
