@@ -47,8 +47,8 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <summary>:zap: Spotify Playing 🎧</summary>
+  <summary>:zap: GitHub Stats <summary>:zap: Spotify Playing 🎧</summary> </summary>
+  
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabopedrosa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats"/>
   
