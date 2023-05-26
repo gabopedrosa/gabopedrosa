@@ -54,3 +54,5 @@
 
 </details>
 
+  <summary> Spotify Playing </summary>
+
