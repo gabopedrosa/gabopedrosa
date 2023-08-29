@@ -16,7 +16,6 @@
 ## Brazilian guy learning some technology stuff 💻
 
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas
-- 🥅 2023 Goals: (Get a Job as a Front or Back-end dev)
 
 
 ### Do you want to connect with me?
