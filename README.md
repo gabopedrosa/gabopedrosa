@@ -36,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gabopedrosa/gabopedrosa/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -53,5 +53,7 @@
 </div>
 
 ###
-##Snake Eating my contribution graph
-![snake gif](https://github.com/gabopedrosa/gabopedrosa/blob/output/github-contribution-grid-snake.gif)
+
+Snake Eating my contribution graph
+![snake gif]
+(https://github.com/gabopedrosa/gabopedrosa/blob/output/github-contribution-grid-snake.gif)
