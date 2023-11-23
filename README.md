@@ -14,7 +14,7 @@ You can call me **Gabriel Pedrosa**, I am a Software Developer with experience i
 -  **FrontEnd:**  Angular, React.
 -  **Database:** Relational Database (SQL Server, PostgreSQL).
 
-<p>Combining my love with technology, I'm willing myself to enter challenges and work with efficiency to give the best to my projects.</p>
+<p>Combining my love with technology, I'm willing myself to enter challenges and work with efficiency to give the best results with the projects I work with.</p>
 
 ## ⭐️ Working now
 
