@@ -25,7 +25,8 @@ You can call me **Gabriel Pedrosa**, I am a Software Developer with experience i
 ## 🚀 Status
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabopedrosa&theme=dark&show_icons=true" alt="GitHub Stats" />
-
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabopedrosa&theme=dark&show_icons=true" />
 
 ## 📚 Skills
 
