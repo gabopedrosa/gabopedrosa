@@ -30,7 +30,6 @@ You can call me **Gabriel Pedrosa**, I am a Software Developer with experience i
 
 ## 📚 Skills
 
-
 <div align="center">
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br/>
