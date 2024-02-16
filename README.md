@@ -24,7 +24,6 @@ You can call me **Gabriel Pedrosa**, I am a Software Developer with experience i
 
 ## 🚀 Status
 
-## 📊 GitHub Analytics
 <p align="center">
   <img width="56%" src="https://github-readme-stats.vercel.app/api?username=gabopedrosa&show_icons=true&theme=codeSTACKr&rank_icon=github" alt="gabopedrosa's stats"/>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabopedrosa&layout=compact&theme=codeSTACKr" alt="devictoralmeida's most languages"/>
