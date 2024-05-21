@@ -8,7 +8,7 @@
 You can call me **Gabriel Pedrosa**, I am a Software Developer with experience in Typescript, Angular and Springboot.
 
 
-# 👩🏽‍💻 Professional Experience
+## 👩🏽‍💻 Professional Experience
 
 -  **BackEnd:**  Springboot (Maven).
 -  **FrontEnd:**  Angular, React.
