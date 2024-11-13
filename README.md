@@ -10,7 +10,7 @@ You can call me **Gabriel Pedrosa**, I am a Software Developer with experience i
 
 ## 👩🏽‍💻 Professional Experience
 
--  **BackEnd:**  Springboot (Maven).
+-  **BackEnd:** C#, Java, Spring
 -  **FrontEnd:**  Angular, React.
 -  **Database:** Relational Database (SQL Server, PostgreSQL).
 
