@@ -18,7 +18,7 @@ You can call me **Gabriel Pedrosa**, I am a Software Developer with experience i
 
 ## 💼 Working now
 
-- Currently working as a **FullStack Developer** at Diamond Solutions - T.I.
+- Currently working as a **FullStack Developer** at Colmeia - T.I.
 
 
 
